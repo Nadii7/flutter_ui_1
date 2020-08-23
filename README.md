@@ -1,11 +1,11 @@
-# Flutter UI Project
+# Flutter Library UI Project
 
-I make this project to learn more about widget in flutter.
+I made this project to learn more about widgets in flutter.
 
 ![](library_prototype.png)
 
 
-# in this project i learned How to deal with:
+# In this project I learned How to deal with:
 
 - List of Map.
 
