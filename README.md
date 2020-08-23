@@ -1,6 +1,17 @@
-# ui_1
+# Flutter UI Project
 
-A new Flutter project.
+I make this project to learn more about widget in flutter.
+
+![](library_prototype.png)
+
+
+# in this project i learned How to deal with:
+
+- List of Map.
+
+- Image Slider and dots.
+
+- Navigator.
 
 ## Getting Started
 
